@@ -1,4 +1,4 @@
-def dekada():
-  for x in range (1,11):    
-     print (x)
+from function import dekada
+
+dekada()
      
