@@ -1,4 +1,5 @@
-from function import dekada
+from functions import get_dekada
+print(get_dekada())
 
-dekada()
-     
+
+
