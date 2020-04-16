@@ -1,5 +1,9 @@
 # How to copy from github to local machine
 
+install git from https://git-scm.com/
+
+
+
 
 git clone <location of git > which can be found at the projects page
 
