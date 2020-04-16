@@ -6,7 +6,7 @@ Add info about basics of each topic so that you can refer back to it
 
 
 | Language         | Code Dependencies | Testing Library | UI Framework | Code IDE  |
-| ------------- ||:-------------:|:-------------:|:-------------:|-----:|
+| ------------- |:-------------:|:-------------:|:-------------:|-----:|
 | Python | PIP | PyTest | QT | PyCharm | 
 | Java | Maven | JUnit | Java Swing | IntelliJ | 
 | Javascript  | NPM + nodejs| Jasmine| HTML5 | Google Chrome ( any browser )  , IntelliJ | 
