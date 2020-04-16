@@ -19,11 +19,38 @@ Add info about basics of each topic so that you can refer back to it
 - Continuous Integration 
 
 
-| Language        | Wiki           | Issue Management |Code Management  | Code Dependencies | Testing Library | UI Framework | Code IDE  |
-| ------------- |:-------------:| :-------------:|:-------------:|:-------------:|:-------------:|:-------------:|-----:|
-| Python | Markdown | Git Issues / JIRA | Git | PIP | PyTest | QT | PyCharm | 
-| Java | Markdown | Git Issues / JIRA | Git | Maven | JUnit | Java Swing | IntelliJ | 
-| Javascript | Markdown | Git Issues / JIRA | Git | NPM + nodejs| Jasmine| HTML5 | Google Chrome ( any browser )  , IntelliJ | 
-| Scala | Markdown | Git Issues / JIRA | Git | Ivy | ScalaTest | Scala Swing | IntelliJ | 
+| Language         | Code Dependencies | Testing Library | UI Framework | Code IDE  |
+| ------------- ||:-------------:|:-------------:|:-------------:|-----:|
+| Python | PIP | PyTest | QT | PyCharm | 
+| Java | Maven | JUnit | Java Swing | IntelliJ | 
+| Javascript  | NPM + nodejs| Jasmine| HTML5 | Google Chrome ( any browser )  , IntelliJ | 
+| Scala  | Ivy | ScalaTest | Scala Swing | IntelliJ | 
+
+# Programming Principles
+
+- Data Structures
+- Flow Control
+- Memory management
+- Debugging
+- Testing 
+- Protocols ( HTTP ) 
+- Interpreted vs Compiled
+- Dynamic VS Static
+- Algorithms 
+- Threads
+- Syncronous vs Asynchronous
+- Interfaces / APIs
+- Finding a solution for common probles online ( Stack Overflow ) 
+
+# Common Tools
+
+Operating system : ------
+Wiki: Markdown 
+Project Management : Git Issues / JIRA 
+Code Management : Git
+Code Review process: ---
+Cloud Services / Containers: ----
+Continuous Integration : ----
+Team Communication : slack 
 
 
