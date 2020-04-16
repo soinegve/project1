@@ -35,7 +35,15 @@ Numbered list:
 
 An [example](http://example.com).
 
-![Image](Icon-pictures.png "icon")
+
+Code:
+
+```
+def hello():
+    pass
+```
+
+![Image](tomato.png "icon")
 
 > Markdown uses email-style > characters for blockquoting.
 
