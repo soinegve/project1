@@ -17,7 +17,10 @@ Add info about basics of each topic so that you can refer back to it
 - linux basics
 
 | Language        | Wiki           | Issue Management |Code Management  | Code Dependencies | Testing Library | UI Framework | Code IDE  |
-| X | X | X | X| X| X| X | X| 
-| X | X | X | X| X| X| X | X| 
-| X | X | X | X| X| X| X | X| 
-| X | X | X | X| X| X| X | X| 
+| ------------- |:-------------:| :-------------:|:-------------:|:-------------:|:-------------:|:-------------:|-----:|
+| X | X | X | X | X | X | X | X | 
+| X | X | X | X | X | X | X | X | 
+| X | X | X | X | X | X | X | X | 
+| X | X | X | X | X | X | X | X | 
+
+
